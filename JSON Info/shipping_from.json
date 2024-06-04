@@ -1,0 +1,13 @@
+{
+    "SHIPPING_FROM": {
+      "name": "Test",
+      "company": "Test",
+      "street1": "123 Blank St.",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97218",
+      "country": "US",
+      "phone": "+1 503 123 4567",
+      "email": "test@example.com"
+    }
+}

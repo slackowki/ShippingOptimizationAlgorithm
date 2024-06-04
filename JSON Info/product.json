@@ -1,0 +1,31 @@
+{
+    "dimensions": {
+      "volume": {
+        "value": 100,
+        "min_value": 10
+      },
+      "width": {
+        "value": 6,
+        "min_value": 3
+      },
+      "height": {
+        "value": 5,
+        "min_value": 3
+      },
+      "length": {
+        "value": 12,
+        "min_value": 6
+      },
+      "weight": {
+        "value": 5,
+        "min_value": 2
+      },
+      "weight_unit": {
+        "value": "pound"
+      },
+      "dimension_unit": {
+        "value": "inch"
+      }
+  }
+}
+  

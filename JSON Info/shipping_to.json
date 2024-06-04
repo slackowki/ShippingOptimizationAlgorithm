@@ -1,0 +1,35 @@
+{
+    "EXAMPLE_ADDRESS_1": {
+      "name": "Nike SOHO",
+      "company": "Nike SOHO",
+      "street1": "529 Broadway",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10012",
+      "country": "US",
+      "phone": "+1 444 444 4444",
+      "email": "robinhood1@hypifyllc.com"
+    },
+    "EXAMPLE_ADDRESS_2": {
+      "name": "Nike Miami",
+      "company": "Nike Miami",
+      "street1": "701 S Miami Ave Suite 121-A",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33131",
+      "country": "US",
+      "phone": "+1 555 555 5555",
+      "email": "robinhood2@hypifyllc.com"
+    },
+    "EXAMPLE_ADDRESS_3": {
+      "name": "Nike Minnesota",
+      "company": "Nike Minnesota",
+      "street1": "3905 Eagan Outlets Pkwy Bldg 100 #200",
+      "city": "Eagan",
+      "state": "MN",
+      "zip": "55122",
+      "country": "US",
+      "phone": "+1 666 666 6666",
+      "email": "robinhood3@hypifyllc.com"
+    }
+  }
